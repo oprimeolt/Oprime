@@ -204,6 +204,7 @@
 /datum/config_entry/number/use_exp_restrictions_heads_hours
 	config_entry_value = 0
 	min_val = 0
+/datum/config_entry/flag/use_role_whitelist //Use role whitelists?
 
 /datum/config_entry/flag/use_exp_restrictions_heads_department
 
